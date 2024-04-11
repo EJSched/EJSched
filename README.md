@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EJSched
 - 👀 I’m interested in ...Proptech and FinTech
-- 🌱 I’m currently learning ...blockchain and AI
+- 🌱 I’m currently learning ...blockchain, AI and Data Science
 - 💞️ I’m looking to collaborate on ...Blockchain/AI in Real Estate and Investing 
 - 📫 How to reach me ...ericschedeler@pathgts.com
 
